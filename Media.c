@@ -60,4 +60,5 @@ int main(void){
     } else if (tipo == 3){
         Desvio == calcular(3);
     }
+	system("pause");
 }   
